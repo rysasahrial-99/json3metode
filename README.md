@@ -10,4 +10,6 @@ Format pemanggilan json:
 3. Data Global
    : Object
 
+Source code json3metode silahkan digunakan secara bebas untuk bahan ajar, latihan dan pengembangan aplikasi lainnya menggunakan metode pemanggilan data json
+
 Untuk menggunakan SC ini silahkan atur first run activity di file AndroidManifest.xml
